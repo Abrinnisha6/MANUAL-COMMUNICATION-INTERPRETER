@@ -31,3 +31,9 @@ These instructions will get you download the project and running on your local m
 4. Sign up and start exploring.
 5. Click on mic button to record speech.
 6. Speech is going to processed and respective animated outputs are shown accordingly and it also support entered text manually.
+
+### Output 
+
+
+![WhatsApp Image 2024-12-21 at 08 33 02](https://github.com/user-attachments/assets/fe5a69c0-6603-41aa-b940-f380891a6b6a)
+
